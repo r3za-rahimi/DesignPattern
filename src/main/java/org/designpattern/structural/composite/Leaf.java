@@ -1,7 +1,6 @@
 package org.designpattern.structural.composite;
 
 public class Leaf implements Component{
-
     private String name;
     private Integer price;
 
